@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "myApp",
-	"webDir": "dist",
-	"bundledWebRuntime": false
+  "appId": "com.sunmonkcreations.vue",
+  "appName": "Vue Memories",
+  "webDir": "public",
+  "bundledWebRuntime": false
 }

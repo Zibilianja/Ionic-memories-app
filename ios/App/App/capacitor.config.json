@@ -1,0 +1,6 @@
+{
+	"appId": "com.sunmonkcreations.vue",
+	"appName": "Vue Memories",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
